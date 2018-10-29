@@ -1,0 +1,191 @@
+7/19/18, 6:49 PM - Messages to this chat and calls are now secured with end-to-end encryption. Tap for more info.
+7/19/18, 6:37 PM - Osama: Asalam Bhai
+7/19/18, 7:09 PM - amaan: ,walekumaslaam bhai 
+Kya haal hain?
+Kya kar rahe ho?
+7/19/18, 7:09 PM - Osama: Allah ka Karam hai
+7/19/18, 7:10 PM - Osama: Admsn Lia is baar aadil . Abhi to *Js* kar Raha hun.
+7/19/18, 7:11 PM - amaan: Acha badiya
+7/19/18, 7:11 PM - amaan: Kaha tak ponchay?
+7/19/18, 7:11 PM - amaan: Koi framework
+7/19/18, 7:11 PM - amaan: ?
+7/19/18, 7:11 PM - Osama: Mean stack target hai
+7/19/18, 7:12 PM - amaan: Acha
+7/19/18, 7:12 PM - Osama: Abhi vanilla js he
+7/19/18, 7:12 PM - Osama: Chal Raha hai
+7/19/18, 7:12 PM - Osama: HTML /CSS ho gya
+7/19/18, 7:13 PM - amaan: Badiya, hai. frontend framework bhee saath sath karlo angular react agar
+7/19/18, 7:13 PM - Osama: Mean = mongo,express ,angular,node.
+7/19/18, 7:14 PM - Osama: All are JavaScript framework
+7/19/18, 7:14 PM - Osama: Tera repo dekha GitHub pe
+7/19/18, 7:14 PM - amaan: Acha
+7/19/18, 7:14 PM - amaan: Kaisa laga?
+7/19/18, 7:14 PM - Osama: Accha hai .
+7/19/18, 7:14 PM - Osama: Mere me readme.md file acche see nahi likha  hai
+7/19/18, 7:15 PM - amaan: Matlab?
+7/19/18, 7:15 PM - Osama: Tu python kar tha hai??
+7/19/18, 7:15 PM - Osama: Tu description acche see like hai projects ka
+7/19/18, 7:15 PM - Osama: *Likha
+7/19/18, 7:15 PM - amaan: Han aur js bhee shuru Kiya hai for tensorflow.js
+7/19/18, 7:16 PM - amaan: Oh 😃
+7/19/18, 7:16 PM - Osama: Maine aadil see js he karne ko kaha hai...
+7/19/18, 7:16 PM - amaan: http://pengoox.pythonanywhere.com/python_list_comprehensions/
+7/19/18, 7:16 PM - amaan: Mera blog bhee hai 
+Pengoox
+7/19/18, 7:16 PM - Osama: Aur c++ ka Kya haal hai
+7/19/18, 7:16 PM - amaan: Woh nahi karta
+7/19/18, 7:17 PM - amaan: Data structures jab padhunga jab dekhunga
+7/19/18, 7:17 PM - amaan: Acha may abhi namaz padh nay jaa raha hun tum say sukun say baat karunga  okay.  Khudahaffiz
+7/19/18, 7:17 PM - Osama: Haan python Mai to bahut sari cheez abstracted hai na
+7/19/18, 7:17 PM - Osama: Ok.kuda hagiz
+7/19/18, 7:17 PM - Osama: Hafiz
+7/19/18, 7:39 PM - amaan: Han
+7/19/18, 7:40 PM - Osama: Waise clg Mai Kya parhate hain
+7/19/18, 7:41 PM - amaan: Apna koi ek  field choose Karo aur bas woh libraries use kaetay raho to sahi rahega, agar sab kuch seekhnay kee kossish karogay to nahi ho paiga
+7/19/18, 7:41 PM - amaan: What is variable 
+Wap to print prime numbers
+7/19/18, 7:41 PM - Osama: Ooh
+7/19/18, 7:42 PM - amaan: Lekin c++ important hai agar machine learning research may jana hai to
+7/19/18, 7:42 PM - Osama: Mai JS aur c++ kar rha hun
+7/19/18, 7:42 PM - Osama: Kernel development Mai v
+7/19/18, 7:43 PM - amaan: Acha
+7/19/18, 7:43 PM - amaan: Tumhay SEO ata hai?
+7/19/18, 7:44 PM - Osama: Nahi .woh kaam apna nahi hai .shayad
+7/19/18, 7:44 PM - Osama: Tera ek project regex pe tha na
+7/19/18, 7:45 PM - Osama: Mai bahut din see parhne ke soch Raha tha
+7/19/18, 7:45 PM - amaan: Han
+7/19/18, 7:45 PM - amaan: Mujhay wasay abhi zaroorat nahi padti regex likhnay kee
+7/19/18, 7:46 PM - Osama: http://github.com/ibnjunaid
+7/19/18, 7:46 PM - Osama: Haan....
+7/19/18, 7:52 PM - amaan: Bohot kam padti hai jaisay urlpatrrens ko parse karnay key liye
+7/19/18, 7:53 PM - Osama: Mughe v front end Mai email I'd validation k liye jarurat parege
+7/19/18, 8:04 PM - amaan: Acha!
+7/19/18, 8:26 PM - Osama: Hmm
+7/20/18, 8:01 PM - amaan: http://pengoox.pythonanywhere.com/Django_Sitemap_Framework_Tutorial-Help_Crawlers/
+7/20/18, 8:01 PM - amaan: Plz Subscribe to push notifications
+7/20/18, 8:02 PM - Osama: I'm a JS guy
+7/20/18, 8:02 PM - amaan: Its okay In future I will be creating js content
+7/20/18, 8:02 PM - Osama: <Media omitted>
+7/20/18, 8:02 PM - Osama: I will subscribe then
+7/20/18, 8:03 PM - amaan: Have u heard about tensorflow.js?
+7/20/18, 8:03 PM - Osama: Yeah keras and tensorflow
+7/20/18, 8:04 PM - Osama: I made a group to chat on these things .would you like to join
+7/20/18, 8:05 PM - amaan: Okay
+7/20/18, 8:06 PM - Osama: Any hackerspace you joined in Delhi?
+7/20/18, 8:06 PM - amaan: No not yet
+7/20/18, 8:07 PM - Osama: I found one named coderplex in Hyderabad.
+7/20/18, 8:07 PM - Osama: Planning to join em next yr
+7/20/18, 8:08 PM - amaan: Thats great
+7/20/18, 8:08 PM - Osama: Are you preparing for next year's GSOC
+7/20/18, 8:09 PM - amaan: Yes, I applied this year but didn't got accepted
+7/20/18, 8:09 PM - Osama: Ooh. What's the procedure
+7/20/18, 8:10 PM - Osama: I m planning g for next yr. Why you wont apply for codeJam
+7/20/18, 8:10 PM - amaan: I have got 38 scores
+7/20/18, 8:10 PM - amaan: In code jam
+7/20/18, 8:11 PM - Osama: Ooh that's nice
+7/20/18, 8:11 PM - Osama: What questions do they ask
+7/20/18, 8:11 PM - Osama: And how score profits you
+7/20/18, 8:12 PM - amaan: Thwy were long
+7/20/18, 8:13 PM - amaan: My scores were below the threshold.  So I didn't qualified for next rounds
+7/20/18, 8:14 PM - Osama: Any link you would like to suggest for FAQs
+7/20/18, 8:14 PM - Osama: Regarding codeJam
+7/20/18, 8:15 PM - amaan: https://code.google.com/codejam/resources/faq
+7/20/18, 8:16 PM - Osama: 😱.thanks
+7/20/18, 8:17 PM - Osama: I guess you are incubating a startup plan in your mind😃😃
+7/20/18, 8:18 PM - amaan: No that's a pain, I have been through that.
+7/20/18, 8:18 PM - amaan: But yeah I m ready to help others
+7/20/18, 8:18 PM - Osama: Been through .how ??
+7/20/18, 8:19 PM - amaan: Long Story will tell you when we meet
+7/20/18, 8:19 PM - Osama: Ok.
+7/29/18, 2:22 PM - Osama: ping
+7/29/18, 4:53 PM - Osama: Bhai tune blockchain pe koi project kiya hai kya
+7/29/18, 5:44 PM - amaan: Nahi par ethereum ka ek course kiya hai .
+7/29/18, 5:45 PM - Osama: Ooh. Apne yaha ek hacknathon hai block chain pe
+7/29/18, 5:46 PM - amaan: acha
+7/29/18, 5:46 PM - Osama: Mere paas AI aur blockchain combined idea hai
+7/29/18, 5:49 PM - amaan: hmm batao
+7/29/18, 5:50 PM - Osama: Blockchain based ek ledger system jo sare news aur important articles ko store karega
+7/29/18, 5:50 PM - Osama: Taki koi apne fake news mai modified data article insert na kare
+7/29/18, 5:52 PM - amaan: han sahi hai
+7/29/18, 5:53 PM - Osama: Par coders chaheye
+7/29/18, 5:53 PM - Osama: Aur team v
+7/29/18, 5:53 PM - amaan: lekin block chain ka mujhay  ka bird eye view hai in depth knowledge
+7/29/18, 5:53 PM - amaan: nahi hai
+7/29/18, 5:53 PM - Osama: Same here
+7/29/18, 5:54 PM - Osama: Aur koi language pe v itna command nahi hai
+7/29/18, 5:54 PM - amaan: phir kaisay hoga ?
+7/29/18, 5:55 PM - Osama: Wahi to
+8/6/18, 12:48 AM - amaan: https://youtu.be/dkO8cdwf6v8
+8/7/18, 5:05 PM - Osama: https://youtu.be/UtNYzv8gLbs
+8/10/18, 5:57 PM - amaan: https://docs.google.com/forms/d/e/1FAIpQLSfOUCkm4e4Dh7DJ4YbH4n_xiVPRgCyHEJBYexi5m9PG13XsGw/viewform
+8/10/18, 6:00 PM - Osama: Whats is this
+8/10/18, 6:00 PM - amaan: http://esya.iiitd.edu.in/launchiiitd/
+9/4/18, 1:29 AM - Osama: Assalamualaikum
+9/4/18, 10:16 AM - amaan: Walekunasllaam
+9/4/18, 9:35 PM - amaan: Aur batao kya bana rahe ho?
+9/4/18, 9:36 PM - Osama: http://github.com/ibnjunaid/jmiHack
+9/4/18, 9:38 PM - amaan: Well its hard to understand a foreign language for me 😅. would you mind adding some description?
+9/4/18, 9:39 PM - Osama: Repo clone kar aur index.html ko open kar
+9/4/18, 9:39 PM - Osama: Phir go pe click kar
+9/4/18, 9:39 PM - Osama: Jab index.html khul jae tab
+9/4/18, 9:46 PM - amaan: To ussay description igee?
+9/4/18, 9:47 PM - Osama: Nahi jamia school ke 2018 batch ke ek student ka result download ho jaega
+9/4/18, 9:48 PM - Osama: Phir next time jab click karega to next student ka aur uske baad next
+10/22/18, 12:04 AM - Osama: Assalamualaikum
+10/22/18, 12:16 AM - amaan: Walekumaslaam
+10/22/18, 12:17 AM - Osama: Bhai . Hacktoberfest k bare me suna hai
+10/22/18, 12:17 AM - amaan: Han register kar rakha hai
+10/22/18, 12:17 AM - amaan: ?
+10/22/18, 12:18 AM - Osama: Sare PR ho gae ?
+10/22/18, 12:18 AM - Osama: Haan .mughe kal pata chala
+10/22/18, 12:18 AM - Osama: Maine bus 2 PR kiye woh v apne projects pe
+10/22/18, 12:19 AM - amaan: Acha may tumharay par kar deta hun tum mere par kardo
+10/22/18, 12:19 AM - amaan: Deal?
+10/22/18, 12:19 AM - Osama: Haan. Waise khud pe v kar sakte ho .
+10/22/18, 12:19 AM - Osama: Chalo deal 😀
+10/22/18, 12:20 AM - amaan: 👍🏻👍🏻
+10/22/18, 12:20 AM - Osama: URL
+10/22/18, 12:20 AM - Osama: github.com/ibnjunaid
+10/22/18, 12:20 AM - Osama: Tera??
+10/22/18, 12:34 AM - amaan: www.github.com/amaanabbasi
+10/22/18, 12:35 AM - Osama: 👍🏿
+10/22/18, 4:21 PM - amaan: Just got back home. Will do it later today okay dont worry.
+10/22/18, 4:26 PM - Osama: Koi nahi aaram se karo
+10/22/18, 4:27 PM - Osama: Tm bus merge kar dena mera PR
+10/22/18, 5:45 PM - amaan: I merged  urs successfully
+10/22/18, 6:18 PM - amaan: Yaar Maine pr Kiya mera to counter nahi bada
+10/22/18, 6:35 PM - Osama: Kitna hai tera already
+10/22/18, 6:35 PM - amaan: Zero
+10/22/18, 6:35 PM - Osama: Tune pehle fork kar
+10/22/18, 6:36 PM - Osama: Phir branch kar
+10/22/18, 6:36 PM - amaan: Han kiya
+10/22/18, 6:36 PM - amaan: Phir pr Kiya hai
+10/22/18, 6:36 PM - Osama: Ooh. Mai bahar hun abhi.
+10/22/18, 6:36 PM - Osama: Room pahuch le dekhte hain
+10/22/18, 6:36 PM - amaan: Elmerge karnay baad increase hova kya?
+10/22/18, 6:37 PM - Osama: Nahi
+10/22/18, 6:37 PM - Osama: PR ke baad ho jata hai
+10/22/18, 7:19 PM - Osama: Koun se project pe pull request dala
+10/22/18, 7:21 PM - amaan: TodoApp par
+10/22/18, 7:21 PM - Osama: <Media omitted>
+10/22/18, 7:22 PM - Osama: Yahan to pull req nahi dikh raha hai
+10/22/18, 7:22 PM - amaan: I think someolthing is wrong with my github
+10/22/18, 7:22 PM - Osama: Yeah . Probably
+10/22/18, 7:27 PM - amaan: <Media omitted>
+10/22/18, 8:51 PM - amaan: I think im missing something while creating a PR. Do we have to add a label of somekind with the PR?
+10/22/18, 9:03 PM - Osama: No. Just a comment while making is satisfactory
+10/22/18, 9:09 PM - amaan: <Media omitted>
+10/22/18, 9:09 PM - amaan: Look I have done thus
+10/22/18, 9:14 PM - Osama: Yeah . You got it right . I merged your PR
+10/22/18, 9:15 PM - amaan: Hmm, ☹ hactoberfest.com/stats are not showing any pr.
+10/22/18, 9:16 PM - Osama: Ooh. You should register first
+10/22/18, 9:16 PM - Osama: @hactoberfest
+10/22/18, 9:17 PM - amaan: On there website?  I did already
+10/22/18, 9:17 PM - Osama: Let me see
+10/22/18, 9:18 PM - Osama: Yeah showing 0/5
+10/22/18, 9:18 PM - Osama: <Media omitted>
+10/22/18, 9:20 PM - amaan: I was following github on twiiter there I saw they are trying to fix an error and thats why updates on github pages and prs are not working as expected
+10/22/18, 9:20 PM - Osama: Yeah may B.
+10/23/18, 12:39 AM - Osama: Bhai tere PRs dikga rahw hain aab. Mera ek kam dikha raha hai😀
+10/23/18, 12:48 AM - amaan: 😅
+10/24/18, 10:47 PM - amaan: You deleted this message

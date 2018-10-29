@@ -1,0 +1,7 @@
+*.png
+__pycache__
+db.sqlite3
+whatsapp_chat.txt
+.vscode
+venv37
+
