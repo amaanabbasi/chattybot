@@ -7,6 +7,7 @@ important.md
 
 *.png
 whatsapp*.txt
+*chat*.txt
 .vscode
 # Created by https://www.gitignore.io/api/python
 
