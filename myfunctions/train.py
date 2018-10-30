@@ -20,4 +20,3 @@ def trainBot(filename):
 
     return chatbot
 
-

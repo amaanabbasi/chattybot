@@ -3,7 +3,7 @@ from myfunctions.train import trainBot
 from chatterbot import ChatBot
 import sys
 import os
-import pyttsx
+import pyttsx3
 
 
 def start():
@@ -23,7 +23,7 @@ def start():
         sys.exit(1)
 
     elif sys.argv[1] == 'chat':
-        engine = pyttsx.init()
+        engine = pyttsx3.init()
         chatbot = ChatBot('Amaan')
         while True:
             con = str(input("You: "))
