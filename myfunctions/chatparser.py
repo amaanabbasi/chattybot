@@ -11,6 +11,12 @@ dateAndTimepattern = r"(\d+\/\d+\/\d+)(,)(\s)(\d+:\d+)(\s)(\w+)(\s)(-)(\s\w+)*(:
 regexDate = re.compile(dateAndTimepattern, flags=re.M)
 
 def cleanText(filename):
+    ''' A function that cleans the chat data and saves it to a file.
+        Parameters
+        ----------
+        filname : str
+        It is the name of the chat file.
+    '''
       
     chat = open(filename, 'r+',encoding='utf-8', errors='ignore')
     chatText = chat.read()
@@ -18,10 +24,10 @@ def cleanText(filename):
 
     # 01/09/17, 11:34 PM - Amfa:
 
-    """
-    Removes the matches and 
-    replace them with an empty string
-    """
+    
+    # Removes the matches and 
+    # replace them with an empty string
+    
     chatText = regexMedia.sub("", chatText)
     chatText = regexDate.sub("", chatText)
 

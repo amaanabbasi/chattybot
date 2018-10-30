@@ -5,7 +5,10 @@ import sys
 import os
 import pyttsx
 
-def parse_whatsapp():
+
+def start():
+    ''' A function that starts the application. '''
+
     if sys.argv[1] == 'train' and sys.argv[2]:
 
         cleaned_chat = cleanText(os.path.join(os.getcwd(),'chat_data','raw_chat_data',sys.argv[2]))
@@ -28,7 +31,10 @@ def parse_whatsapp():
             print(f"Bot: {response}")
             engine.say(f"{response}")
             engine.runAndWait()
-        
+    
+    elif sys.argv[1] == 'api':
+    	os.system('python app.py') 
+
     else :
         print ("for training: python main.py train <Input TextFileName> \nfor chat : python main.py chat")
         sys.exit(1)
@@ -36,5 +42,5 @@ def parse_whatsapp():
 
 if __name__ == "__main__":
     
-    parse_whatsapp()
+    start()
    	
