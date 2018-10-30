@@ -5,6 +5,7 @@ builddir
 important.md
 # endshere
 
+Makefile
 *.png
 whatsapp*.txt
 *chat*.txt
