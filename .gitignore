@@ -7,7 +7,7 @@ important.md
 
 Makefile
 *.png
-WhatsApp_chat([a-z_]?)+.txt
+WhatsApp_chat([a-zA-Z(_)?]?)+.txt
 .vscode
 # Created by https://www.gitignore.io/api/python
 
