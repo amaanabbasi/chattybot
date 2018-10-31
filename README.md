@@ -1,3 +1,3 @@
 # Chatty bot
 
-Train a chatbot on your whatsapp chatfile.
+Train a chatbot on your whatsapp chat
