@@ -7,7 +7,7 @@ important.md
 
 Makefile
 *.png
-whatsapp*.txt
+whatsApp*.txt
 *chat*.txt
 .vscode
 # Created by https://www.gitignore.io/api/python
