@@ -14,4 +14,7 @@ function `cleanText` which removes all the emoji's and non-utf8 characters from 
 
 > There is no separate command for cleaning.
 
+## Next step
+
+[Training the data](./training.md)
 
