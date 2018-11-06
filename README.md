@@ -1,6 +1,4 @@
-
-
- ![](./chattybot.jpg)  # Chatty bot    
+# Chatty bot &nbsp;&nbsp;&nbsp; ![](./chattybot.jpg)     
 
 Train a chatbot on your whatsapp chat
 
