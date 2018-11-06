@@ -1,4 +1,4 @@
-![](./chattybot.svg)
+![](./chattybot.svg =200x90)
 
 # Chatty bot
 
