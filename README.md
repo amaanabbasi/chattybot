@@ -1,4 +1,5 @@
-# Chatty bot &nbsp;&nbsp;&nbsp; ![](./chattybot.jpg)     
+# Chatty bot &nbsp;&nbsp;&nbsp; ![logort](https://user-images.githubusercontent.com/30196830/48554900-a8267100-e905-11e8-8449-f028384df8aa.png)
+
 
 Train a chatbot on your whatsapp chat
 
