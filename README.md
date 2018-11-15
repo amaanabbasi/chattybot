@@ -3,6 +3,9 @@
 
 Train a chatbot on your whatsapp chat
 
+# Requirements
+
+* `pip install -r requirements.txt`
 
 # Getting started 
 
