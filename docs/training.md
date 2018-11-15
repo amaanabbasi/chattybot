@@ -1,7 +1,6 @@
 # Training
 
-The first thing to do is to to train the model on some data, this particular bot
-should be trained on list representing a conversation.
+This particular bot should be trained on list representing a conversation.
 
 ```python
     ['hi',
