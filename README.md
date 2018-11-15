@@ -20,5 +20,8 @@ Train a chatbot on your whatsapp chat.
 ![capture](https://user-images.githubusercontent.com/30196830/48556257-7f07df80-e909-11e8-9d91-b8f85e9b3801.PNG)
 
 
+The results are not great, as you can see above. The reason is the algorithm that it is using is very simple but it can be improved, you can learn more about it [here](https://chatterbot.readthedocs.io/en/stable/training.html).
+
+
 
  
